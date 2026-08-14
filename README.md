@@ -1,5 +1,9 @@
 <h1 align="center">Alan Osvaldo Rocha Pereira</h1>
 
+<h2 align="center"> About Me</h2>
+
+I have always preferred solving problems rather than complaining about them. Combined with my curiosity about technology since childhood, this mindset led me to programming. The passion I developed for this field has driven me to constantly go further, learn new things, and challenge myself.
+
 <h2 align="center"> Main Skills</h2>
 
 <p align="center">
